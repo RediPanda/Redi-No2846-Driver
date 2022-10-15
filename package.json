@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "node-hid": "^2.1.1",
+    "open": "^8.4.0"
+  }
+}
